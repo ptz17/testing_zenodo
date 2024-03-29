@@ -25,4 +25,25 @@
     "description": "DOI: ",
 
     "notes": "Research supported by the National Institutes of Health SPARC Program (OT2 OD025340)",
+
+    "license": "Apache-2.0",
+
+    "title": "Red-Dot: ML-powered laser vector detection",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.1234/software.paper.5678",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-article"
+        }
+    ],
+
+    "keywords": ["Cats", "Laser", "Behavior"],
+
+    "communities": [
+        {"identifier": "software-cats"}
+    ],
+
+    "grants": [{"id":"777541"}]
 }
