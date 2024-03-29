@@ -1,0 +1,28 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0001-5295-7267",
+            "affiliation": "Duke University",
+            "name": "Musselman, Eric D."
+        },
+        {
+            "orcid": "0000-0001-7288-9943",
+            "affiliation": "Duke University",
+            "name": "Cariello, Jake E."
+        },
+        {
+            "orcid": "0000-0003-2844-0190",
+            "affiliation": "Duke University",
+            "name": "Pelot, Nicole A."
+        },
+        {
+            "orcid": "0000-0001-5240-6588",
+            "affiliation": "Duke University",
+            "name": "Grill, Warren M."
+        }
+    ],
+
+    "description": "DOI: ",
+
+    "notes": "Research supported by the National Institutes of Health SPARC Program (OT2 OD025340)",
+}
